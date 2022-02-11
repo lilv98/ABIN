@@ -24,7 +24,7 @@ Default. See files in:
     ./data/YAGO4/input/
 
 ### Build from source
-Download and unzip the raw data:
+Download the raw data:
 
 *T*: https://yago-knowledge.org/data/yago4/en/2020-02-24/yago-wd-class.nt.gz
 
@@ -32,7 +32,9 @@ Download and unzip the raw data:
 
 *A<sub>ec*: https://yago-knowledge.org/data/yago4/en/2020-02-24/yago-wd-full-types.nt.gz and https://yago-knowledge.org/data/yago4/en/2020-02-24/yago-wd-simple-types.nt.gz
 
+Unzip the raw data to:
 
+    ./data/YAGO4/raw/
 
 Run all cells in:
 
@@ -47,13 +49,17 @@ Default. See files in:
     ./data/DBpedia/input/
 
 ### Build from source
-Download and unzip the raw data:
+Download the raw data to:
 
 *T*: http://downloads.dbpedia.org/2016-10/dbpedia_2016-10.nt
 
 *A<sub>ee*: http://downloads.dbpedia.org/2016-10/core-i18n/en/mappingbased_objects_wkd_uris_en.ttl.bz2
 
 *A<sub>ec*: http://downloads.dbpedia.org/2016-10/core-i18n/en/instance_types_transitive_wkd_uris_en.ttl.bz2
+
+Unzip the raw data to:
+
+    ./data/DBpedia/raw/
 
 Run all cells in:
 
